@@ -1,0 +1,3 @@
+[submodule "dependencies/fixed_string"]
+	path = dependencies/fixed_string
+	url = https://github.com/unterumarmung/fixed_string.git

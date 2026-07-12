@@ -1,0 +1,14 @@
+# exclude all dot files except .git, appveyor and travis files
+.*
+!.git*
+
+# exclude binaries and temporary files
+[Bb]in/
+[Bb]uild*/
+[Oo]ut/
+
+# User-specific files
+*.user
+*.user.props
+*.nvuser
+*.PVS-Studio.*
